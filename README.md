@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About The Project
+
+This project is focused on learning and integrating Material UI (MUI) design within a React Next.js framework. The main objective is to create a social landing page by utilizing core MUI components, icons, and incorporating basic Tailwind CSS for styling.
+
+It serves as a practice exercise to explore MUI's capabilities, understand how its components work in tandem with React, and experiment with different design elements to build a visually appealing and functional UI.
+
 ## Getting Started
 
 First, run the development server:
